@@ -9,6 +9,8 @@ I created it to study heteroallelic and heterozygous mutations, because the two 
 
 Or download `Chromatoscope.html` and open it in any web browser to use it offline. Either way, your files are read locally: they never leave your computer.
 
+No file at hand? Click "Load a made-up example" on the start screen: a wild type and three lines edited at the same guide, two of them carrying two different alleles, so their peaks overlap past the cut site.
+
 ## What it does
 
 - Opens several `.ab1` files at once (button or drag and drop)
