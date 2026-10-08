@@ -2,6 +2,8 @@
 
 Compare several Sanger sequencing chromatograms (.ab1) side by side, to check alleles at a glance.
 
+I created it to study heteroallelic and heterozygous mutations, because the two underlying sequences can sometimes be tough to decipher!
+
 **Use it live, nothing to download:** https://chloe-soulard.github.io/tools/chromatoscope.html
 (all my tools are on my website: https://chloe-soulard.github.io/tools/)
 
