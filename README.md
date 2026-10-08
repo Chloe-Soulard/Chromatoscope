@@ -2,7 +2,10 @@
 
 Compare several Sanger sequencing chromatograms (.ab1) side by side, to check alleles at a glance.
 
-Download `Chromatoscope.html` and open it in any web browser. Nothing to install, and your files are read locally: they never leave your computer.
+**Use it live, nothing to download:** https://chloe-soulard.github.io/tools/chromatoscope.html
+(all my tools are on my website: https://chloe-soulard.github.io/tools/)
+
+Or download `Chromatoscope.html` and open it in any web browser to use it offline. Either way, your files are read locally: they never leave your computer.
 
 ## What it does
 
